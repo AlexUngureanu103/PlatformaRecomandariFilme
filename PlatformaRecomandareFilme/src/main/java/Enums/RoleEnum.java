@@ -1,17 +1,17 @@
 package Enums;
 
 public enum RoleEnum {
-    Administrator("admin"),
-    Moderator("mod"),
-    RegularUser("user");
+    admin(2),
+    user(1),
+    guest(0);
 
-    private String value;
+    private Integer value;
 
-    RoleEnum(String value) {
+    RoleEnum(Integer value) {
         this.value = value;
     }
 
-    public String getValue() {
+    public Integer getValue() {
         return value;
     }
 }

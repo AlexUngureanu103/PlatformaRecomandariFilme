@@ -1,0 +1,5 @@
+alex1032:qwerty103:Alex:20:admin
+alex:AL:a:17:user
+zcata:Xcata45:Cata:20:user
+1234:1234:1234:123:user
+123:123:123:123:user
